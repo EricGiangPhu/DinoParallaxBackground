@@ -1,7 +1,7 @@
 # Dino Parallax Background
 Example Parallax background Dino game with unity
 
-#Unity 
+# Unity 
 Version 2018.2.13f1
 
-#T.CODE Workshop
+# T.CODE Workshop
